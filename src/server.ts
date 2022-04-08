@@ -8,8 +8,6 @@
 
 // soma(5, 10)
 
-// soma(10,20)
-
 // // questão 2
 // class Pessoa{
 //     nome: string;
